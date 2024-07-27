@@ -1,0 +1,8 @@
+{
+  "productName": "ruoyi",
+  "icon": "../public/logo/logo.png",
+  "files": ["src"],
+  "directories": {
+    "output": "dist"
+  }
+}
